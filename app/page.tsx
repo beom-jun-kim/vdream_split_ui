@@ -82,7 +82,7 @@ export default function SplitNavigationPage() {
           className="absolute inset-0 bg-cover bg-center transition-transform duration-700"
           style={{
             backgroundImage: "url('/caring-healthcare-technology-with-elderly-person-u.jpg')",
-            transform: hoveredSide === "right" ? "scale(1.05)" : "scale(1)",
+            transform: hoveredSide === "right" ? "scale(1)" : "scale(1)",
           }}
         />
 
