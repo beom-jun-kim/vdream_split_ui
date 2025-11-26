@@ -9,7 +9,7 @@ export default function SplitNavigationPage() {
     <div className="relative h-screen w-full overflow-hidden flex">
       {/* Left Side - Flipped */}
       <a
-        href="https://xn--5y2bj31c.com/company/home"
+        href="https://flipped-one.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
         className={`relative flex-1 flex items-center justify-center transition-all duration-700 ease-out ${
